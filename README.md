@@ -12,5 +12,11 @@ https://github.com/billgilbert7000/SpeccyP
 <div align="center">
   <img src="DOCS/SpeccyP_GSP_M2_HW101_T.png" width="600">
   <br>
-  <em>SpeccyP старт</em>
+  <em>SpeccyP GSP top</em>
 </div>
+<div align="center">
+  <img src="DOCS/SpeccyP_GSP_M2_HW101_B.png" width="600">
+  <br>
+  <em>SpeccyP GSP top</em>
+</div>
+
