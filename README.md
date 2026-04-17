@@ -20,3 +20,5 @@ https://github.com/billgilbert7000/SpeccyP
   <em>SpeccyP GSP top</em>
 </div>
 
+Огромное спасибо Mikhail Matveev за основу проекта!!! 
+https://github.com/rh1tech/frank
