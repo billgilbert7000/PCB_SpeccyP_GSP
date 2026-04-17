@@ -31,7 +31,7 @@ https://github.com/rh1tech/frank
 <div align="center">
   <img src="DOCS/SpeccyP_GSP_M2_HW101_B.png" width="600">
   <br>
-  <em>SpeccyP GSP top</em>
+  <em>SpeccyP GSP bottom</em>
 </div>
 
 
