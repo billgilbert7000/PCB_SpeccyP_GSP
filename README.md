@@ -3,6 +3,7 @@ SpeccyP + GeneralSound (GSP)  two RP2350
 
 PCB design for SpeccyP with General Sound on two RP2350 or RP2040 + RP2350 
 https://github.com/billgilbert7000/SpeccyP
+
 The board has not been tested yet!
 
 P.S. The GSP (General Sound Pico) code will be published soon.
