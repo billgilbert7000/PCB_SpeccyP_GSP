@@ -9,8 +9,8 @@ The board has not been tested yet!
 
 P.S. The GSP (General Sound Pico) code will be published soon.
 
-## 🙏 Many thanks to Mikhail Matveev for the basis of the project!!!
-
+## 🙏 Many thanks to Mikhail Matveev for the basis of the project!!! 
+https://github.com/rh1tech/frank
 
 ## ⚙️ Проект печатной платы для SpeccyP с General Sound  на двух RP2350 или RP2040 + RP2350 
 
@@ -20,7 +20,7 @@ https://github.com/billgilbert7000/SpeccyP
 
 P.S. Код GSP (General Sound Pico) будет скоро опубликован
 
-## 🙏 Огромное спасибо Mikhail Matveev за основу проекта!!! 
+## 🙏 Огромное спасибо Михаилу Матвееву за основу проекта!!! 
 https://github.com/rh1tech/frank
 
 <div align="center">
