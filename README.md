@@ -7,7 +7,7 @@ https://github.com/billgilbert7000/SpeccyP
 
 The board has not been tested yet!
 
-P.S. The GSP (General Sound Pico) code will be published soon.
+P.S. The GSP [General Sound Pico](https://github.com/billgilbert7000/GeneralSoundPico_SpeccyP)
 
 ## 🙏 Many thanks to Mikhail Matveev for the basis of the project!!! 
 https://github.com/rh1tech/frank
@@ -18,7 +18,7 @@ https://github.com/billgilbert7000/SpeccyP
 
 Плата ещё не тестировалась! 
 
-P.S. Код GSP (General Sound Pico) будет скоро опубликован
+P.S. Код GSP [General Sound Pico](https://github.com/billgilbert7000/GeneralSoundPico_SpeccyP)
 
 ## 🙏 Огромное спасибо Михаилу Матвееву за основу проекта!!! 
 https://github.com/rh1tech/frank
