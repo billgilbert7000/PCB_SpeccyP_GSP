@@ -24,14 +24,28 @@ P.S. Код GSP [General Sound Pico](https://github.com/billgilbert7000/GeneralS
 https://github.com/rh1tech/frank
 
 <div align="center">
-  <img src="DOCS/SpeccyP_GSP_M2_HW101_T.png" width="600">
+  <img src="DOCS/photo_3D.png" width="600">
   <br>
-  <em>SpeccyP GSP top</em>
 </div>
 <div align="center">
-  <img src="DOCS/SpeccyP_GSP_M2_HW101_B.png" width="600">
+  <img src="DOCS/photo_4.jpg" width="600">
   <br>
-  <em>SpeccyP GSP bottom</em>
+</div>
+<div align="center">
+  <img src="DOCS/photo_1.jpg" width="600">
+  <br>
+</div>
+<div align="center">
+  <img src="DOCS/photo_2.jpg" width="600">
+  <br>
+</div>
+<div align="center">
+  <img src="DOCS/photo_0.jpg" width="600">
+  <br>
+</div>
+<div align="center">
+  <img src="DOCS/photo_3.jpg" width="600">
+  <br>
 </div>
 
 
